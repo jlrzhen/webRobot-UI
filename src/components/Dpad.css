@@ -1,0 +1,36 @@
+#left, #right {
+    display: inline-block;
+}
+  
+.movement {
+    background-color: rgb(170, 170, 170);
+    border-radius: 100%;
+    height: 4em;
+    width: 9em;
+    border-style: double;
+    border-width: 0.2em; 
+}
+
+.movement:active {
+    background-color: rgb(85, 85, 85);
+}
+
+p {
+    user-select: none;
+}
+
+.Component {
+    text-align: center;
+}
+
+.Component-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+  

@@ -1,8 +1,19 @@
-.App {
+#circle {
+  background-color: white;
+  border-radius: 100%; 
+}
+
+#stick {
+  background-color: rgb(170, 170, 170);
+  border-radius: 100%; 
+  position: relative;
+}
+
+.Component {
   text-align: center;
 }
 
-.App-header {
+.Component-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -11,8 +22,4 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }
