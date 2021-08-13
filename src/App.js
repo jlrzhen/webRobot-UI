@@ -15,7 +15,7 @@ function App() {
   
   const handleSubmit = () => {
     setAddress(document.getElementById("addressInput").value);
-    setUrl(`http://${document.getElementById("addressInput").value}:5000/`);
+    setUrl(`https://${document.getElementById("addressInput").value}:5000/`);
     document.getElementById("addressInput").value = "";
   }
   
