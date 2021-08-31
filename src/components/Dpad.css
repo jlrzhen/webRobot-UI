@@ -15,7 +15,7 @@
     background-color: rgb(85, 85, 85);
 }
 
-p {
+p, span, label, button {
     user-select: none;
 }
 
