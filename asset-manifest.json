@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webRobot-UI/static/css/main.2a1013a5.chunk.css",
+    "main.css": "/webRobot-UI/static/css/main.5e6e1c36.chunk.css",
     "main.js": "/webRobot-UI/static/js/main.26549c92.chunk.js",
     "main.js.map": "/webRobot-UI/static/js/main.26549c92.chunk.js.map",
     "runtime-main.js": "/webRobot-UI/static/js/runtime-main.d2e55c89.js",
@@ -10,13 +10,13 @@
     "static/js/3.878df5f9.chunk.js": "/webRobot-UI/static/js/3.878df5f9.chunk.js",
     "static/js/3.878df5f9.chunk.js.map": "/webRobot-UI/static/js/3.878df5f9.chunk.js.map",
     "index.html": "/webRobot-UI/index.html",
-    "static/css/main.2a1013a5.chunk.css.map": "/webRobot-UI/static/css/main.2a1013a5.chunk.css.map",
+    "static/css/main.5e6e1c36.chunk.css.map": "/webRobot-UI/static/css/main.5e6e1c36.chunk.css.map",
     "static/js/2.30fc0951.chunk.js.LICENSE.txt": "/webRobot-UI/static/js/2.30fc0951.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2e55c89.js",
     "static/js/2.30fc0951.chunk.js",
-    "static/css/main.2a1013a5.chunk.css",
+    "static/css/main.5e6e1c36.chunk.css",
     "static/js/main.26549c92.chunk.js"
   ]
 }
