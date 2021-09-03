@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webRobot-UI/static/css/main.c2958d1c.chunk.css",
-    "main.js": "/webRobot-UI/static/js/main.26549c92.chunk.js",
-    "main.js.map": "/webRobot-UI/static/js/main.26549c92.chunk.js.map",
+    "main.js": "/webRobot-UI/static/js/main.95decd4f.chunk.js",
+    "main.js.map": "/webRobot-UI/static/js/main.95decd4f.chunk.js.map",
     "runtime-main.js": "/webRobot-UI/static/js/runtime-main.d2e55c89.js",
     "runtime-main.js.map": "/webRobot-UI/static/js/runtime-main.d2e55c89.js.map",
     "static/js/2.30fc0951.chunk.js": "/webRobot-UI/static/js/2.30fc0951.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d2e55c89.js",
     "static/js/2.30fc0951.chunk.js",
     "static/css/main.c2958d1c.chunk.css",
-    "static/js/main.26549c92.chunk.js"
+    "static/js/main.95decd4f.chunk.js"
   ]
 }
