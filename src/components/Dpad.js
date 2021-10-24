@@ -3,7 +3,7 @@ import './Dpad.css';
 import sendCoords from '../Robot/RobotControl';
 
 function Dpad(props) {
-    const [speed/*,setSpeed*/] = useState(50);
+    const [speed/*,setSpeed*/] = useState(100);
     const [dpadX, setDpadX] = useState(0);
     const [dpadY, setDpadY] = useState(0);
 

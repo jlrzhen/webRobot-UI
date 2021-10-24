@@ -23,7 +23,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <br></br>
-        <p>{address}</p>
+        <p><a 
+          href={`https://${address}:5000`}
+          rel="noreferrer" 
+          target="_blank"
+          style={{ color: 'white' }}
+          >
+            {address}
+          </a></p>
         <input id="addressInput"></input>
         <button onClick={handleSubmit}>Set</button>
         <Dpad url={url}/>
